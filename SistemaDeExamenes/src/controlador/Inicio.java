@@ -1,10 +1,11 @@
 package controlador;
 
+import modelo.metodoak.CreacionJFrames;
+
 public class Inicio {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		CreacionJFrames.loginJframe();
 	}
 
 }
